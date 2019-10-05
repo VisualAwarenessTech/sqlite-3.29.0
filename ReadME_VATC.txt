@@ -1,0 +1,1 @@
+Install this package as SQLITE3_DIR with ProjectTool
